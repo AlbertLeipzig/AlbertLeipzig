@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @AlbertLeipzig
-- 👀 I’m interested in music, coding and learning
-- 🌱 I’m currently learning html, css and js
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 You can reach me on https://twitter.com/albert_clemente
+# Hi!
 
-<!---
-AlbertLeipzig/AlbertLeipzig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Albert Löwe a **Full Stack Web Dev** with a mission to **make the web a more human place**!
+
+#### I love: 
+
+- responsive and interactive websites
+- creativity
+- work less , create more
+- modular systems
+
+
+#### Currently working on :
+
+- Lautsprecher, Web Musik Magazine Leipzig
+- Neptune CSS
+
+
+#### Learning:
+
+- GSAP
+
+
+#### I'm open for new projects. Don't hesitate to contact me in albertclem@protonmail.com
