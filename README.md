@@ -2,7 +2,7 @@
 
 I'm Albert Löwe a **Full Stack Web Dev** with a mission to **make the web a more human place**!
 
-#### I love: 
+❤️ #### I love: 
 
 - responsive and interactive websites
 - creativity
@@ -10,15 +10,15 @@ I'm Albert Löwe a **Full Stack Web Dev** with a mission to **make the web a mor
 - modular systems
 
 
-#### Currently working on :
+👨🏻‍💻 #### Currently working on :
 
 - Lautsprecher, Web Musik Magazine Leipzig
 - Neptune CSS
 
 
-#### Learning:
+📖 #### Learning:
 
 - GSAP
 
 
-#### I'm open for new projects. Don't hesitate to contact me in albertclem@protonmail.com
+👋🏼 #### I'm open for new projects. Don't hesitate to contact me in albertclem@protonmail.com
