@@ -1,26 +1,54 @@
-# Hi!
+# Albert Leipzig
 
-I'm Albert Löwe a **Full Stack Web Dev** with a mission to **make the web a more human place**!
+### I'm a full Stack Web Developer based on Leipzig, Germany
 
+<br>
 
+<div>
 
-#### ❤️ I love: 
+</div>
 
-- responsive and interactive websites
-- creativity
-- work less , create more
-- modular systems
-<br></br>
+## I love
 
-#### 👨🏻‍💻 Currently working on :
+<br>
 
-- Lautsprecher, Web Musik Magazine Leipzig
-- Neptune CSS
-<br></br>
+- functional human-centered goal-oriented development
+- clean code
+- creative, challenging, collaborative projects
+  <br>
+  <br>
 
-#### 📖 Learning:
+## I mostly use
 
-- GSAP
-<br></br>
+<br>
 
-#### 👋🏼 I'm open for new projects. Don't hesitate to contact me in albertclem@protonmail.com
+[![Skills](https://skillicons.dev/icons?i=bash,html,scss,js,nodejs,express,mongodb,postman,threejs,git,css,bootstrap,react,vite,figma,firebase,rollupjs&perline=9)](https://skillicons.dev)
+
+<br>
+
+## Father of
+
+<br>
+
+- [Neptune Components](https://www.npmjs.com/package/neptunes-components)
+- [Neptune Styles](https://www.npmjs.com/package/neptune-styles)
+
+<br>
+
+## Let's connect!
+
+<br>
+
+[![github](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/albert-clemente/)
+
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/albert-clemente/)
+
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://github.com/AlbertLeipzig)
+
+or per [email](mailto:albertclemvill@gmail.com)
+
+<br>
+
+![Test image](https://images.unsplash.com/photo-1610299736609-129411c176b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bGVpcHppZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=350&q=60)
+
+<br>
