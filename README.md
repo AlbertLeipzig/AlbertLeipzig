@@ -8,16 +8,6 @@
 
 </div>
 
-## I love
-
-<br>
-
-- functional human-centered goal-oriented development
-- clean code
-- creative, challenging, collaborative projects
-  <br>
-  <br>
-
 ## I mostly use
 
 <br>
