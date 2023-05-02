@@ -45,7 +45,7 @@
 
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://github.com/AlbertLeipzig)
 
-or per [email](mailto:albertclemvill@gmail.com)
+[email](mailto:albertclemvill@gmail.com)
 
 <br>
 
