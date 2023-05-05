@@ -32,13 +32,11 @@ I am currently working as an Assistant Teacher at DCI (Digital Career Institute)
 <br>
 
 [![github](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/albert-clemente/)
-
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/albert-clemente/)
-
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://github.com/AlbertLeipzig)
-
 [email](mailto:albertclemvill@gmail.com)
 
+ 
 <br>
 
 ![Test image](https://images.unsplash.com/photo-1610299736609-129411c176b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bGVpcHppZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=350&q=60)
