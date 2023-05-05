@@ -31,7 +31,7 @@ I am currently working as an Assistant Teacher at DCI (Digital Career Institute)
 
 <br>
 
-![github](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/albert-clemente/)
+[![github](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/albert-clemente/)
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/albert-clemente/)
 
