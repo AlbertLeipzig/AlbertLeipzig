@@ -14,7 +14,7 @@ I am currently working as an Assistant Teacher at DCI (Digital Career Institute)
 
 <br>
 
-[![Skills](https://skillicons.dev/icons?i=bash,html,scss,js,nodejs,express,mongodb,postman,threejs,git,css,bootstrap,react,vite,figma,firebase,rollupjs&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bash,html,scss,js,nodejs,express,mongodb,postman,threejs,git,css,bootstrap,react,vue,vite,figma,firebase,rollupjs&perline=9)](https://skillicons.dev)
 
 <br>
 
@@ -32,6 +32,6 @@ I am currently working as an Assistant Teacher at DCI (Digital Career Institute)
  
 <br>
 
-![Test image](https://images.unsplash.com/photo-1610299736609-129411c176b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bGVpcHppZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=350&q=60)
+![Test image](https://images.unsplash.com/photo-1610299736609-129411c176b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bGVpcHppZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60)
 
 <br>
