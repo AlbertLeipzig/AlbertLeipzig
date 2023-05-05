@@ -18,14 +18,7 @@ I am currently working as an Assistant Teacher at DCI (Digital Career Institute)
 
 <br>
 
-## Father of
 
-<br>
-
-- [Neptune Components](https://www.npmjs.com/package/neptunes-components)
-- [Neptune Styles](https://www.npmjs.com/package/neptune-styles)
-
-<br>
 
 ## Let's connect!
 
