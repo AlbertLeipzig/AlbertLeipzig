@@ -13,7 +13,7 @@ I am currently working as Junior Teacher at DCI (Digital Career Institute)
 ## My main Tech-Stack is 👇
 <br>
 
-[![Skills](https://skillicons.dev/icons?i=bash,html,scss,js,nodejs,express,mongodb,postman,threejs,d3,git,css,bootstrap,react,vue,vite,figma,firebase,rollupjs&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bash,html,scss,js,nodejs,express,mongodb,postman,d3,git,css,bootstrap,react,vue,vite,figma,firebase,rollupjs&perline=10)](https://skillicons.dev)
 
 <br>
 
