@@ -2,8 +2,6 @@
 
 ### I'm a full Stack Web Developer based on Leipzig, Germany
 
-I am currently working as Main Teacher at DCI (Digital Career Institute)
-
 <br>
 
 <div>
